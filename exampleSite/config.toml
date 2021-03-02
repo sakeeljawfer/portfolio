@@ -1,8 +1,8 @@
 # Base information
-baseURL = "https://sakeeljawfer.github.io/portfolio"
+baseURL = "https://sakeeljawfer.github.io/portfolio/"
 languageCode = "en-gb"
-title = "Sakeel jawfer"
-#theme = "hugo-developer-portfolio"
+title = "Sakeel"
+# theme = "hugo-developer-portfolio"
 googleAnalytics = ""
 
 # Remove this when using normally
