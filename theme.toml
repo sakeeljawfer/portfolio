@@ -8,6 +8,6 @@ features = ["uikit", "responsive", "features"]
 min_version = "0.54.0"
 
 [author]
-    name = "Sakeel Jawfer"
-    homepage = "https://samrobbins.uk/"
+    name = "Sam Robbins"
+    
 
