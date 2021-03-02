@@ -62,8 +62,8 @@ author = "Sam Robbins"
   formAction = "" #contact form works with formspree.io
 
   [params.footer]
-  email = "samrobbinsgb@gmail.com"
-  address = "Durham, UK"
+  email = "sakeeljawfer@gmail.com"
+  address = "Anuradhapura, Sri Lanka"
   googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U"
 
 [markup]

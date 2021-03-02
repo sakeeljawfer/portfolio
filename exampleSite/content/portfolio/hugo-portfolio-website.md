@@ -188,7 +188,7 @@ This is the text in the hero section, change it to whatever you want
 
 ```yml
 banner:
-  title: Hi! I’m Sam
+  title: Hi! I’m Sakeel
 ```
 
 #### social
@@ -197,13 +197,13 @@ Put all of your social links here and they will appear in the social section
 
 ```yml
 social:
-  twitter: ""
-  linkedin: sam-robbins-gb
-  github: samrobbins85
+  twitter: "sakeeljawfer"
+  linkedin: sakeeljawfer
+  github: sakeeljawfer
   gitlab: ""
   facebook: ""
   instagram: ""
-  gmail: samrobbinsgb
+  gmail: sakeljawfer
 ```
 
 #### about
@@ -216,7 +216,7 @@ social:
 ```yml
 about:
   enable: true
-  content: 2nd Year Durham Computer Science Student
+  content: i am a Computer Science Student
   button:
     btnText: Find out more
     URL: "/about"
