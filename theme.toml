@@ -1,6 +1,6 @@
 name = "Developer Portfolio"
 license = "MIT"
-licenselink = "https://github.com/samrobbins85/hugo-developer-portfolio/blob/master/LICENSE"
+ #licenselink = "https://github.com/samrobbins85/hugo-developer-portfolio/blob/master/LICENSE"
 description = "A Portfolio website designed for developers"
 
 tags = ["portfolio", "developer", "responsive","uikit"]
